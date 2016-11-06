@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        Stream<Integer> stream = Stream.of(1, 2, 3);
+        Stream<Integer> stream = Stream.of(1, 2);
         stream.forEach(System.out::println);
     }
 }
