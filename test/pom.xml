@@ -6,8 +6,8 @@
     <artifactId>test</artifactId>
     <version>7.0.0.GA</version>
     <packaging>war</packaging>
-    <name>helloworld</name>
-    <description>Helloworld</description>
+    <name>test</name>
+    <description>test</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
